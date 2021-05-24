@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bykudo:blocks/bauxit_ore",
+    "particle": "bykudo:blocks/bauxit_ore"
+  }
+}

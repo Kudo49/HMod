@@ -1,0 +1,30 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "1": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "2": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bykudo:aluminium_axe",
+    "count": 1
+  }
+}

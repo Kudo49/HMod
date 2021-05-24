@@ -1,0 +1,30 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "bykudo:copper_plate"
+    },
+    "1": {
+      "item": "bykudo:copper_plate"
+    },
+    "2": {
+      "item": "bykudo:copper_plate"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bykudo:copper_pickaxe",
+    "count": 1
+  }
+}

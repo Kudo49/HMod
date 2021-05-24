@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bykudo:blocks/aluminium_ore_block",
+    "particle": "bykudo:blocks/aluminium_ore_block"
+  }
+}

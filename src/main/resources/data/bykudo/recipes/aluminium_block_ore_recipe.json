@@ -1,0 +1,13 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bykudo:aluminium_block"
+    }
+  ],
+  "result": {
+    "item": "bykudo:aluminium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:hammer"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    },
+    {
+      "item": "bykudo:cs_ingot"
+    }
+  ],
+  "result": {
+    "item": "bykudo:steelplate",
+    "count": 3
+  }
+}

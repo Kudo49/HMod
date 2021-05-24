@@ -1,0 +1,36 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "1": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "2": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "3": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "5": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "6": {
+      "item": "bykudo:aluminium_plate"
+    },
+    "8": {
+      "item": "bykudo:aluminium_plate"
+    }
+  },
+  "result": {
+    "item": "bykudo:aluminium_armor_leggings",
+    "count": 1
+  }
+}

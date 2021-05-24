@@ -1,0 +1,39 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bykudo:steelplate"
+    },
+    "2": {
+      "item": "bykudo:steelplate"
+    },
+    "3": {
+      "item": "bykudo:steelplate"
+    },
+    "4": {
+      "item": "bykudo:steelplate"
+    },
+    "5": {
+      "item": "bykudo:steelplate"
+    },
+    "6": {
+      "item": "bykudo:steelplate"
+    },
+    "7": {
+      "item": "bykudo:steelplate"
+    },
+    "8": {
+      "item": "bykudo:steelplate"
+    }
+  },
+  "result": {
+    "item": "bykudo:steel_armor_chestplate",
+    "count": 1
+  }
+}

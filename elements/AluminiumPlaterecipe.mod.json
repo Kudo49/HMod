@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:Hammer"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminiumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AluminiumPlate"
+    },
+    "name": "aluminium_platerecipe",
+    "namespace": "mod"
+  }
+}

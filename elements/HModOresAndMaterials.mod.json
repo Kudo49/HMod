@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "H Mod Ores And Materials",
+    "icon": {
+      "value": "CUSTOM:BauxitOre"
+    },
+    "showSearch": false
+  }
+}

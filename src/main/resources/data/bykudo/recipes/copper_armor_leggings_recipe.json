@@ -1,0 +1,36 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "bykudo:copper_plate"
+    },
+    "1": {
+      "item": "bykudo:copper_plate"
+    },
+    "2": {
+      "item": "bykudo:copper_plate"
+    },
+    "3": {
+      "item": "bykudo:copper_plate"
+    },
+    "5": {
+      "item": "bykudo:copper_plate"
+    },
+    "6": {
+      "item": "bykudo:copper_plate"
+    },
+    "8": {
+      "item": "bykudo:copper_plate"
+    }
+  },
+  "result": {
+    "item": "bykudo:copper_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:hammer"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    },
+    {
+      "item": "bykudo:cp_ingot"
+    }
+  ],
+  "result": {
+    "item": "bykudo:copper_plate",
+    "count": 3
+  }
+}

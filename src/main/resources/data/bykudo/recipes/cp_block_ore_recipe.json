@@ -1,0 +1,13 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bykudo:cp_block"
+    }
+  ],
+  "result": {
+    "item": "bykudo:cp_ingot",
+    "count": 9
+  }
+}

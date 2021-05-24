@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bykudo:blocks/steel_ore_block",
+    "particle": "bykudo:blocks/steel_ore_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "bykudo",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bykudo:bauxit_dust"
+  },
+  "result": {
+    "item": "bykudo:aluminium_ingot"
+  }
+}

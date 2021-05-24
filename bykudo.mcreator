@@ -1,0 +1,980 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Hammer",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer",
+      "path": "~/Tools/Aluminium"
+    },
+    {
+      "name": "CopperPlate",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_plate",
+      "path": "~/Ores/Copper"
+    },
+    {
+      "name": "CpIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_ingot",
+      "path": "~/Ores/Copper"
+    },
+    {
+      "name": "CpOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_ore",
+      "path": "~/Ores/Copper"
+    },
+    {
+      "name": "CpBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_block",
+      "path": "~/Ores/Copper"
+    },
+    {
+      "name": "CpOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_ore_block_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CpBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_block_ore_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CpOreSmelting",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_ore_smelting",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "BauxitDust",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bauxit_dust",
+      "path": "~/Ores/Al"
+    },
+    {
+      "name": "BauxitOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bauxit_ore",
+      "path": "~/Ores/Al"
+    },
+    {
+      "name": "AluminiumIngot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ingot",
+      "path": "~/Ores/Al"
+    },
+    {
+      "name": "AluminiumBlock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_block",
+      "path": "~/Ores/Al"
+    },
+    {
+      "name": "AluminiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ore_block_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_block_ore_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumOreSmelting",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ore_smelting",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Copperplaterecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperplaterecipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumPlate",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_plate",
+      "path": "~/Ores/Al"
+    },
+    {
+      "name": "AluminiumPlaterecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_platerecipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelDust",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_dust",
+      "path": "~/Ores/Steel"
+    },
+    {
+      "name": "SteelOre",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ore",
+      "path": "~/Ores/Steel"
+    },
+    {
+      "name": "SteelBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block",
+      "path": "~/Ores/Steel"
+    },
+    {
+      "name": "SteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block_ore_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RawSteel",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_steel",
+      "path": "~/Ores/Steel"
+    },
+    {
+      "name": "CsIngot",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cs_ingot",
+      "path": "~/Ores/Steel"
+    },
+    {
+      "name": "CsOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cs_ore_block_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CsBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cs_block_ore_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CsOreSmelting",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cs_ore_smelting",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Steelplate",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelplate",
+      "path": "~/Ores/Steel"
+    },
+    {
+      "name": "Steelplaterecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelplaterecipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Goldplate",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldplate",
+      "path": "~/Ores/Gl"
+    },
+    {
+      "name": "Goldplaterecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldplaterecipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelArmor",
+      "type": "armor",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/ARMORS"
+    },
+    {
+      "name": "SteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_helmet_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_body_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_leggings_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_boots_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelPickaxe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_pickaxe",
+      "path": "~/Tools/Steel"
+    },
+    {
+      "name": "SteelAxe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_axe",
+      "path": "~/Tools/Steel"
+    },
+    {
+      "name": "SteelSword",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_sword",
+      "path": "~/Tools/Steel"
+    },
+    {
+      "name": "SteelShovel",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_shovel",
+      "path": "~/Tools/Steel"
+    },
+    {
+      "name": "SteelHoe",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_hoe",
+      "path": "~/Tools/Steel"
+    },
+    {
+      "name": "SteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_pickaxe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_axe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_sword_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_shovel_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_hoe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe",
+      "path": "~/Tools/Copper"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe",
+      "path": "~/Tools/Copper"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword",
+      "path": "~/Tools/Copper"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel",
+      "path": "~/Tools/Copper"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe",
+      "path": "~/Tools/Copper"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/ARMORS"
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_helmet_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_body_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_leggings_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_boots_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumArmor",
+      "type": "armor",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/ARMORS"
+    },
+    {
+      "name": "AluminiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_helmet_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_body_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_leggings_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_boots_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumPickaxe",
+      "type": "tool",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_pickaxe",
+      "path": "~/Tools/Aluminium"
+    },
+    {
+      "name": "AluminiumAxe",
+      "type": "tool",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_axe",
+      "path": "~/Tools/Aluminium"
+    },
+    {
+      "name": "AluminiumSword",
+      "type": "tool",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_sword",
+      "path": "~/Tools/Aluminium"
+    },
+    {
+      "name": "AluminiumShovel",
+      "type": "tool",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_shovel",
+      "path": "~/Tools/Aluminium"
+    },
+    {
+      "name": "AluminiumHoe",
+      "type": "tool",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_hoe",
+      "path": "~/Tools/Aluminium"
+    },
+    {
+      "name": "AluminiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_pickaxe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_axe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_sword_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_shovel_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AluminiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_hoe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Hammerrecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammerrecipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "HModArmors",
+      "type": "tab",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "h_mod_armors",
+      "path": "~/GUI"
+    },
+    {
+      "name": "HModOresAndMaterials",
+      "type": "tab",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "h_mod_ores_and_materials",
+      "path": "~/GUI"
+    },
+    {
+      "name": "HModTools",
+      "type": "tab",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "h_mod_tools",
+      "path": "~/GUI"
+    },
+    {
+      "name": "OverNether",
+      "type": "biome",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "over_nether",
+      "path": "~/Biomes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.bykudo.bauxit_ore": "Bauxit Ore",
+      "item.bykudo.steelplate": "Steelplate",
+      "item.bykudo.aluminium_axe": "Aluminium Axe",
+      "item.bykudo.raw_steel": "Raw Steel",
+      "item.bykudo.aluminium_plate": "Aluminium Plate",
+      "itemGroup.tabh_mod_tools": "H Mod Tools",
+      "item.bykudo.steel_axe": "Steel Axe",
+      "item.bykudo.steel_sword": "Steel Sword",
+      "item.bykudo.goldplate": "Goldplate",
+      "item.bykudo.steel_dust": "Steel",
+      "item.bykudo.aluminium_armor_leggings": "Aluminium Leggings",
+      "item.bykudo.copper_axe": "Copper Axe",
+      "item.bykudo.copper_sword": "Copper Sword",
+      "item.bykudo.aluminium_ingot": "Aluminium",
+      "block.bykudo.steel_block": "Block of Steel",
+      "block.bykudo.cp_block": "Block of Cp",
+      "item.bykudo.aluminium_shovel": "Aluminium Shovel",
+      "item.bykudo.hammer": "Hammer",
+      "item.bykudo.steel_armor_helmet": "Steel Helmet",
+      "item.bykudo.steel_pickaxe": "Steel Pickaxe",
+      "item.bykudo.cp_ingot": "Copper",
+      "block.bykudo.steel_ore": "Steel Ore",
+      "item.bykudo.copper_shovel": "Copper Shovel",
+      "item.bykudo.aluminium_hoe": "Aluminium Hoe",
+      "item.bykudo.cs_ingot": "Steel",
+      "item.bykudo.steel_hoe": "Steel Hoe",
+      "item.bykudo.aluminium_armor_boots": "Aluminium Boots",
+      "item.bykudo.steel_armor_leggings": "Steel Leggings",
+      "item.bykudo.aluminium_armor_chestplate": "Aluminium Chestplate",
+      "itemGroup.tabh_mod_ores_and_materials": "H Mod Ores And Materials",
+      "item.bykudo.aluminium_sword": "Aluminium Sword",
+      "item.bykudo.steel_shovel": "Steel Shovel",
+      "item.bykudo.copper_pickaxe": "Copper Pickaxe",
+      "block.bykudo.aluminium_block": "Block of Aluminium",
+      "item.bykudo.copper_armor_boots": "Copper Boots",
+      "item.bykudo.aluminium_pickaxe": "Aluminium Pickaxe",
+      "item.bykudo.copper_armor_helmet": "Copper Helmet",
+      "item.bykudo.copper_hoe": "Copper Hoe",
+      "item.bykudo.aluminium_armor_helmet": "Aluminium Helmet",
+      "item.bykudo.copper_plate": "Copper Plate",
+      "item.bykudo.copper_armor_leggings": "Copper Leggings",
+      "itemGroup.tabh_mod_armors": "H Mod Armors",
+      "item.bykudo.bauxit_dust": "Bauxit",
+      "item.bykudo.steel_armor_chestplate": "Steel Chestplate",
+      "item.bykudo.copper_armor_chestplate": "Copper Chestplate",
+      "biome.bykudo.over_nether": "OverMine",
+      "item.bykudo.steel_armor_boots": "Steel Boots",
+      "block.bykudo.cp_ore": "Cp Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "ARMORS",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": [
+          {
+            "name": "Steel",
+            "children": []
+          },
+          {
+            "name": "Copper",
+            "children": []
+          },
+          {
+            "name": "Aluminium",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "Ores",
+        "children": [
+          {
+            "name": "Al",
+            "children": []
+          },
+          {
+            "name": "Gl",
+            "children": []
+          },
+          {
+            "name": "Steel",
+            "children": []
+          },
+          {
+            "name": "Copper",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Biomes",
+        "children": []
+      },
+      {
+        "name": "Structures",
+        "children": []
+      },
+      {
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "Dimensions",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "bykudo",
+    "modName": "HMod by Kudo",
+    "version": "1.0.0",
+    "author": "Kudo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.bykudo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
